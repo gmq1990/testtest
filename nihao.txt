@@ -3,3 +3,6 @@ dor
 dwarf
 `:wq
 o
+
+
+vim
